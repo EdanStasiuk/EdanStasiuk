@@ -1,7 +1,7 @@
 # About Me
-A third year CS student at Simon Fraser University.
+Currently in my third-year of Computing Science at Simon Fraser University.
 
-I embrace the techo-optimist belief that technology holds the key to solving some of our most pressing challenges and unlocking opportunities for progress. I have faith in the potential of technology to empower individuals, improve lives, and transform industries for the better.
+I embrace the techno-optimist belief that technology holds the key to solving some of our most pressing challenges and unlocking opportunities for progress. I have faith in the potential of technology to empower individuals, improve lives, and transform industries for the better.
 
 I aspire to create autonomous systems that enhance efficiency and safety, as well as exploring the intersection of technology and finance to drive financial inclusion and economic growth.
 
