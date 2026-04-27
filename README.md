@@ -19,9 +19,9 @@ ___________    .___                  _________ __                .__       __
 
 Fifth-year Computer Science student at **Simon Fraser University**.
 
-- Mission Operations Team Lead at [ALEASAT](https://www.aleasat.space/) — a 1U CubeSat built by ~100 students from [UBC Orbit](https://ubcorbit.com/) and [SFU SAT](https://sfusat.org/), in collaboration with the Radio Amateurs of Canada and the European Space Agency's Fly Your Satellite! Programme
+- Mission Operations Team Lead at [ALEASAT](https://www.aleasat.space/) — a 1U CubeSat built by ~100 students from [UBC Orbit](https://ubcorbit.com/) and [SFU SAT](https://sfusat.org/), in collaboration with the Radio Amateurs of Canada and the European Space Agency's *Fly Your Satellite!* Programme
 - Currently interested in database internals
 
 ## Primary Tech Stack
 
-`C++` &nbsp; `C` &nbsp; `Python` &nbsp; `Go` &nbsp; `TypeScript`
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![NeoVim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
