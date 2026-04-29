@@ -17,7 +17,7 @@ ___________    .___                  _________ __                .__       __
 
 ## About Me
 
-Fifth-year Computer Science student at **Simon Fraser University**.
+Fifth-year Computer Science student at Simon Fraser University.
 
 - Mission Operations Team Lead at [ALEASAT](https://www.aleasat.space/) — a 1U CubeSat built by ~100 students from [UBC Orbit](https://ubcorbit.com/) and [SFU SAT](https://sfusat.org/), in collaboration with the Radio Amateurs of Canada and the European Space Agency's *Fly Your Satellite!* Programme
 - Currently interested in database internals
